@@ -38,7 +38,10 @@
     </header>
     <main>
         <h2>Ask OpenAI</h2>
-        <p>Enter a query in the search box below.</p>
+        <p>Enter a prompt in the search box below.</p>
+        <input type="text" id="prompt" placeholder="Enter a prompt">
+        <button onclick="generateText()">Generate Text</button>
+        <p id="result"></p>
     </main>
     <footer>
         <p>Copyright &copy; 2023</p>
