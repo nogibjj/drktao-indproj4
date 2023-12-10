@@ -1,5 +1,21 @@
-pylint
-pytest
-click
+#devops
 black
+click 
+pytest
 pytest-cov
+pylint==2.15.3
+
+#rust based linter
+ruff
+boto3
+
+#web
+fastapi
+uvicorn
+
+## data science
+pandas
+
+Flask
+
+openai==0.27.0
