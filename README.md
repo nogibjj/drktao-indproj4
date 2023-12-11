@@ -31,6 +31,6 @@ The app has been successfully deployed. The user interface includes two tabs for
 
 Azure Web App: https://portal.azure.com/#@noahgiftgmail.onmicrosoft.com/resource/subscriptions/90d6c7b6-bba3-4372-9988-f9a9e01e2517/resourcegroups/FlaskAppGroup/providers/Microsoft.Web/sites/indproj4/appServices
 
-Video Demo: 
+Video Demo: https://www.youtube.com/watch?v=Wb50YjikJlQ
 
 
