@@ -8,7 +8,7 @@ First, write a Dockerfile in the root repository. Next, install Docker Desktop o
 3. Build the Docker Image: `docker build -t onlineqa:latest .`
 4. Run the Docker container: `docker run -p 23333:23333 onlineqa:latest`
 
-![Alt text](dockerhub.jpg)
+![Alt text](dockerhub.png)
 
 ## Dockerhub Login, Build, and Push
 `docker login --username=drktao`
@@ -20,7 +20,7 @@ First, write a Dockerfile in the root repository. Next, install Docker Desktop o
 2. Add a new application setting called `WEBSITES_PORT` and set the key accordingly based on the root Dockerfile
 3. Verify the domain
 
-![Alt text](webapp.jpg)
+![Alt text](webapp.png)
 
 ## App Domain
 App: https://indproj4.azurewebsites.net/
