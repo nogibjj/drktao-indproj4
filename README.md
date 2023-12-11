@@ -26,7 +26,8 @@ First, write a Dockerfile in the root repository. Next, install Docker Desktop o
 
 ## App Domain
 App: https://indproj4.azurewebsites.net/
-The app has been successfully deployed. The user interface includes two tabs for navigation. One is the homepage, which provides a brief description of the app. The other tab allows the user to prompt an OpenAI LLM using a text box. The style and contents of the app are implemented using a `style.css` file and two `.html` files in the repository. In addition, `app.py` provides the structure and implementation of the app. 
+
+The app has been successfully deployed. The user interface includes two tabs for navigation. One is the homepage, which provides a brief description of the app. The other tab allows the user to prompt an OpenAI LLM using a text box and receive a response. The style and contents of the app are implemented using a `style.css` file and two `.html` files in the repository. In addition, `app.py` provides the structure and implementation of the app. 
 
 Azure Web App: https://portal.azure.com/#@noahgiftgmail.onmicrosoft.com/resource/subscriptions/90d6c7b6-bba3-4372-9988-f9a9e01e2517/resourcegroups/FlaskAppGroup/providers/Microsoft.Web/sites/indproj4/appServices
 
