@@ -8,7 +8,7 @@ def home():
     return render_template("home.html", title="Home")
 
 
-@app.route("/api/openai")
+@app.route("/use")
 def use():
     return render_template("use.html", title="Use App")
 
