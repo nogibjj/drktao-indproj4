@@ -12,7 +12,9 @@ First, write a Dockerfile in the root repository. Next, install Docker Desktop o
 
 ## Dockerhub Login, Build, and Push
 `docker login --username=drktao`
+
 `docker build -t drktao/onlineqa`
+
 `docker push drktao/onlineqa`
 
 ## Azure Deployment
